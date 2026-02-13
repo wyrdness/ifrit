@@ -1,10 +1,8 @@
 {
-  "category": "DEMON_ANGEL/ENTITY_SPIRIT",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/ifrit",
     "maintainers": [
       {
@@ -16,319 +14,113 @@
     "license": {
       "data": "CC0-1.0",
       "content": "CC-BY-4.0"
-    },
-    "cultural_sensitivity": {
-      "alert": "MODERATE",
-      "notice": "This represents Islamic religious tradition and Arabic/Middle Eastern cultural heritage. Approach with respect for religious and cultural context.",
-      "guidelines": [
-        "Recognize Islamic religious significance",
-        "Understand Quranic and theological context",
-        "Respect Arabic/Middle Eastern cultural origins",
-        "Avoid stereotyping or sensationalizing",
-        "Distinguish from Western fantasy appropriations"
-      ]
     }
   },
-
   "phenomenon": {
     "id": "ifrit",
     "name": "Ifrit",
-    "aliases": [
-      {
-        "name": "'Ifrīt",
-        "language": "Arabic",
-        "notes": "Original Arabic with diacritics"
-      },
-      {
-        "name": "Efreet",
-        "language": "English",
-        "notes": "Alternative transliteration"
-      },
-      {
-        "name": "Afreet",
-        "language": "English",
-        "notes": "Variant spelling"
-      }
-    ],
-    "category": "DEMON_ANGEL/ENTITY_SPIRIT",
-    "subcategory": "Powerful Jinn",
+    "aliases": [],
+    "category": "|_ALTERNATIVE_TERM_FOR_JINN_|",
+    "subcategory": "of jinn",
     "tags": [
-      "islamic",
-      "arabic",
-      "jinn",
-      "djinn",
-      "demon",
-      "fire",
-      "powerful",
-      "shapeshifter",
-      "quran"
+      "folklore",
+      "mythology"
     ],
-    "status": "active_religious_tradition",
+    "status": "documented",
     "description": {
-      "summary": "Powerful, often malevolent type of jinn in Islamic tradition. Made of smokeless fire, possessing enormous power, cunning, and typically evil alignment. Capable of shape-shifting, magic, fire manipulation, and flight.",
-      "full": "The Ifrit (Arabic: عفريت, 'ifrīt) is a powerful and typically malevolent class of jinn in Islamic tradition and Middle Eastern folklore. Created from smokeless fire like all jinn, Ifrits are among the most powerful types, known for their enormous strength, cunning intelligence, and tendency toward evil and rebellion. They appear as huge, winged, fiery beings in terrifying demonic form, though capable of shape-shifting. Possessing free will, Ifrits typically choose evil over good, though not universally. They wield superhuman strength, magic, fire manipulation, and flight. In the hierarchy of jinn, Ifrits are among the most powerful, below only Marids. They are mentioned in the Quran, where a powerful jinn (often interpreted as Ifrit) offers to serve King Solomon. Ifrits can grant wishes but in twisted, malevolent ways, serve sorcerers (dangerously), and destroy enemies. Defeating an Ifrit requires powerful magic or divine intervention. The concept remains active in Islamic and Arabic cultural traditions."
+      "summary": "The **Ifrit** (Arabic: عفريت, *'ifrīt*) is a powerful and typically malevolent class of jinn in Islamic tradition and Middle Eastern folklore.",
+      "full": "The **Ifrit** (Arabic: عفريت, *'ifrīt*) is a powerful and typically malevolent class of jinn in Islamic tradition and Middle Eastern folklore. Created from **smokeless fire** like all jinn, Ifrits are among the most powerful types, known for their: While possessing free will, Ifrits typically choose evil over good. They appear as huge, winged, fiery beings capable of shape-shifting, wielding superhuman strength, magic, fire manipulation, and flight."
     },
     "etymology": {
-      "origin": "Arabic عفريت ('ifrīt), possibly from عفر ('afara) meaning 'to rub in dust' or related to rebellion/strength",
-      "meaning": "Powerful, rebellious spirit; strong demon",
-      "linguistic_note": "Plural: 'Afārīt (عفاريت)"
+      "origin": "| Arabic/Middle Eastern |",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "DEMON_ANGEL/ENTITY_SPIRIT",
-      "type": "Jinn",
-      "subtype": "Powerful/Evil-aligned",
-      "variant": "Islamic/Arabic"
+      "category": "|_ALTERNATIVE_TERM_FOR_JINN_|",
+      "type": "of jinn",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "jinn_hierarchy": {
-      "rank": "Among most powerful jinn types",
-      "comparison": "Below Marid, above regular jinn and Ghul",
-      "power_level": "Very high"
-    },
-    "related_phenomena": [
-      {
-        "id": "marid",
-        "name": "Marid",
-        "relationship": "hierarchy",
-        "description": "Most powerful type of jinn, above Ifrit"
-      },
-      {
-        "id": "jinn",
-        "name": "Jinn",
-        "relationship": "category",
-        "description": "General category of smokeless fire beings"
-      },
-      {
-        "id": "ghul",
-        "name": "Ghul",
-        "relationship": "related",
-        "description": "Another evil-aligned type of jinn, less powerful"
-      },
-      {
-        "id": "djinn",
-        "name": "Djinn",
-        "relationship": "category",
-        "description": "Alternative term for jinn"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "nature": "Made of smokeless fire (like all jinn)",
-      "appearance": "Huge, winged, fiery beings; terrifying demonic form",
-      "features": [
-        {
-          "feature": "Size",
-          "description": "Enormous, much larger than humans",
-          "frequency": "always"
-        },
-        {
-          "feature": "Wings",
-          "description": "Possesses wings for flight",
-          "frequency": "common"
-        },
-        {
-          "feature": "Fiery nature",
-          "description": "Composed of smokeless fire, can manifest flames",
-          "frequency": "always"
-        },
-        {
-          "feature": "Demonic appearance",
-          "description": "Terrifying, monstrous form when revealed",
-          "frequency": "true form"
-        }
-      ],
-      "morphology": "Jinn nature - created from smokeless fire, can take physical form, shape-shift"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Superhuman strength",
-        "description": "Enormous physical power, far beyond humans or lesser jinn",
-        "frequency": "always",
-        "evidence_level": "traditional/religious"
-      },
-      {
-        "ability": "Shape-shifting",
-        "description": "Can take various forms including human, animal, or monstrous",
-        "frequency": "common",
-        "evidence_level": "traditional/religious"
-      },
-      {
-        "ability": "Magic",
-        "description": "Powerful magical abilities and sorcery",
-        "frequency": "common",
-        "evidence_level": "traditional/religious"
-      },
-      {
-        "ability": "Fire manipulation",
-        "description": "Control and generation of fire",
-        "frequency": "common",
-        "evidence_level": "traditional/religious"
-      },
-      {
-        "ability": "Flight",
-        "description": "Can fly using wings",
-        "frequency": "common",
-        "evidence_level": "traditional/religious"
-      },
-      {
-        "ability": "Wish granting",
-        "description": "Can grant wishes but typically in twisted, malevolent ways",
-        "frequency": "occasional",
-        "evidence_level": "folklore"
-      }
-    ],
-    "nature": {
-      "free_will": "Possesses free will like all jinn",
-      "alignment": "Typically evil, rebellious, but not universally - individual choice",
-      "intelligence": "Cunning, highly intelligent",
-      "disposition": "Usually malevolent, dangerous"
-    },
+    "abilities": [],
     "behavior": {
-      "patterns": [
-        "Grant wishes in twisted, harmful ways",
-        "Serve sorcerers (but dangerously, may rebel)",
-        "Destroy enemies with great power",
-        "Rebel against divine authority",
-        "Seek power and influence"
-      ],
-      "danger_level": "Extremely high - among most dangerous jinn"
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Islamic religious tradition; Middle Eastern and Islamic cultural sphere",
-      "cultural_distribution": "Islamic world, Arabic-speaking regions, Middle East, North Africa, Central Asia, South Asia",
-      "religious_context": "Part of Islamic theology and Quranic tradition"
+      "description": "| Arabic/Middle Eastern |",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "religious_roots": "Islamic theology; mentioned in Quran",
-      "cultural_roots": "Pre-Islamic and Islamic Middle Eastern folklore",
-      "theological_significance": "Part of Islamic understanding of invisible world and spiritual beings"
+      "cultural_roots": "| Arabic/Middle Eastern |",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "7th century CE",
-        "event": "Quranic mention",
-        "significance": "Powerful jinn ('often interpreted as Ifrit) mentioned in story of King Solomon",
-        "source": "Quran, Surah An-Naml (27:39)"
-      },
-      {
-        "date": "8th-14th centuries",
-        "event": "Arabian Nights elaboration",
-        "significance": "Detailed stories of Ifrits in One Thousand and One Nights",
-        "source": "Arabian Nights literature"
-      },
-      {
-        "date": "Medieval Islamic period",
-        "event": "Theological development",
-        "significance": "Islamic scholars elaborate jinn theology and hierarchy",
-        "source": "Islamic theological texts"
-      },
-      {
-        "date": "Modern era",
-        "event": "Continued tradition",
-        "significance": "Remains part of Islamic belief and Middle Eastern folklore",
-        "source": "Contemporary Islamic practice and culture"
-      }
-    ]
+    "timeline": []
   },
-
-  "religious_context": {
-    "islamic_theology": {
-      "nature": "Type of jinn - created from smokeless fire",
-      "free_will": "Possesses free will; can choose good or evil",
-      "typical_choice": "Usually chooses evil and rebellion, but not universally",
-      "creation": "Created before humans, from smokeless fire",
-      "invisibility": "Normally invisible to humans unless choose to manifest"
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
     },
-    "quran": {
-      "mention": "Powerful jinn mentioned in Surah An-Naml (27:39)",
-      "context": "Jinn offers to bring Queen of Sheba's throne to King Solomon",
-      "interpretation": "Often interpreted as Ifrit, though not explicitly named as such",
-      "theological_significance": "Demonstrates power of jinn and Solomon's divine authority over them"
-    },
-    "solomon_tradition": {
-      "control": "King Solomon could control Ifrits and other jinn using divine seal",
-      "servitude": "Forced powerful jinn including Ifrits to work on his projects",
-      "religious_significance": "Solomon's power over jinn was gift from God"
-    }
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
-  "cultural_context": {
-    "arabian_nights": {
-      "role": "Featured in multiple tales as powerful antagonists or bound servants",
-      "stories": "Tales of Ifrits imprisoned in bottles, lamps, or bound by magic",
-      "characteristics": "Depicted as immensely powerful, dangerous, cunning"
-    },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
     "folklore": {
-      "defeat": "Extremely difficult to defeat; requires powerful magic or divine intervention",
-      "binding": "Can be bound by powerful sorcerers using magic seals and divine names",
-      "danger": "Considered among most dangerous supernatural beings",
-      "wishes": "May grant wishes but typically twists them to cause harm"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "powers_and_dangers": {
-    "powers": [
-      "Enormous strength - can move mountains, carry palaces",
-      "Magical abilities - powerful sorcery",
-      "Shape-shifting - take any form",
-      "Fire manipulation - control and create fire",
-      "Flight - can travel vast distances instantly",
-      "Long life - effectively immortal unless killed"
-    ],
-    "dangers": [
-      "Extremely powerful and destructive",
-      "Cunning and deceptive",
-      "Typically evil-aligned",
-      "Can rebel against those who bind them",
-      "Wishes granted often twisted to harm",
-      "Difficult to control even for powerful sorcerers"
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "cultural_sensitivity": {
-    "respect_guidelines": [
-      "Recognize Islamic religious context - part of theology",
-      "Understand Quranic basis and religious significance",
-      "Respect Arabic/Middle Eastern cultural origins",
-      "Avoid conflating with Western fantasy 'genies'",
-      "Don't sensationalize or stereotype",
-      "Distinguish from pop culture appropriations"
-    ],
-    "religious_significance": "Part of Islamic belief in invisible world; approach with same respect as any religious tradition"
-  },
-
-  "sources": [
-    {
-      "id": "quran-27-39",
-      "type": "religious_text",
-      "title": "Quran, Surah An-Naml (27:39)",
-      "notes": "Mention of powerful jinn (often interpreted as Ifrit) serving Solomon"
-    },
-    {
-      "id": "arabian-nights",
-      "type": "literature",
-      "title": "One Thousand and One Nights",
-      "date": "8th-14th centuries",
-      "notes": "Multiple tales featuring Ifrits"
-    },
-    {
-      "id": "el-zein-2009",
-      "type": "academic",
-      "title": "Islam, Arabs, and the Intelligent World of the Jinn",
-      "authors": ["Amira El-Zein"],
-      "publication": "Syracuse University Press",
-      "date": "2009",
-      "isbn": "978-0815650706"
-    }
-  ]
+  "sources": []
 }
